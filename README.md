@@ -18,7 +18,7 @@ python scripts/mk_make.py --python
 cd
 
 # install Pin
-wget 'http://software.intel.com/sites/landingpage/pintool/downloads/pin-2.14-7313-gcc.4.4.7-linux.tar.gz'
+wget 'https://software.intel.com/sites/landingpage/pintool/downloads/pin-2.14-71313-gcc.4.4.7-linux.tar.gz'
 tar xzf pin-2.14-71313-gcc.4.4.7-linux.tar.gz
 
 # install Triton
